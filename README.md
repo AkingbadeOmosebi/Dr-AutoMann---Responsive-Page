@@ -10,4 +10,4 @@ Thank you.
 
 
 #SVG files for menu open and close icon were downloaded from the following link: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:close:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23e8eaed
-#Background wallpaper does not belong to me, It was gotten from Google image search > Pexel Images, "I DO NOT CLAIM OWNERSHIP OF THE IMAGE", I simply found it good looking and worth appreciable and therefore decided to use it for a fun project. (If the owner is uncomfortable with it, Kindly leave a message, and I'll replace it. Thank you.)
+#Background wallpaper does not belong to me, It was gotten from Google image search > Pexel Images> https://www.pexels.com/@cottonbro/collections/, "I DO NOT CLAIM OWNERSHIP OF THE IMAGE", I simply found it good looking and worth appreciable and therefore decided to use it for a fun project. (If the owner is uncomfortable with it, Kindly leave a message, and I'll replace it. Thank you.)
